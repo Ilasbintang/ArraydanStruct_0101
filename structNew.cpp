@@ -16,7 +16,7 @@ int main() {
     cin >> mhs.nama;
     cout << "Alamat : ";
     cin >> mhs.alamat;
-    cout << "Umur : ";
+    cout << "Umur :ilas ";
     cin >> mhs.umur;
     cout << endl;
     // tampilkan

@@ -8,3 +8,11 @@ struct Orang
     int umur;
 };
 
+int main() {
+    Orang mhs;
+    // Mengisi data
+    cout << "Mengisi Data" << endl;
+    cout << "Nama : ";
+    cin >> mhs.nama;
+    cout << "Alamat : ";
+}
